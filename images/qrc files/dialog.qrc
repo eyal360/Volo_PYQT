@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="dialog">
+    <file>../misc/sadunicorn_small_new.png</file>
+    <file>../misc/sadunicorn_small_new_new.png</file>
+  </qresource>
+</RCC>

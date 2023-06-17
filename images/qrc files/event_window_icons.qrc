@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../misc/garbage.png</file>
+    <file>../misc/round_excel.png</file>
+    <file>../misc/plus-icon.png</file>
+    <file>../misc/minus-icon-png.jpg</file>
+    <file>../misc/add_files_icon.png</file>
+    <file>../misc/supplier_payment_icon.png</file>
+    <file>../misc/task-icon.jpg</file>
+    <file>../misc/event-information-icon.jpg</file>
+    <file>../misc/excel_large.png</file>
+    <file>../logo/Pheonix.png</file>
+    <file>../logo/Pheonix.ico</file>
+    <file>../misc/account-information-icon.jpg</file>
+    <file>../misc/folder.png</file>
+    <file>../misc/wine.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../misc/round_excel.png</file>
+    <file>../misc/excel.png</file>
+    <file>../misc/excel_large.png</file>
+    <file>../logo/Pheonix.ico</file>
+  </qresource>
+</RCC>

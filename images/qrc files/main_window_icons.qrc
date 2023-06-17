@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>../misc/gold_splash_bg.png</file>
+    <file>../logo/logo_check_sign.png</file>
+    <file>../misc/plus_icon.png</file>
+    <file>../misc/restart_prog_icon.png</file>
+    <file>../misc/restore_icon.png</file>
+    <file>../misc/settings_icon.png</file>
+    <file>../logo/SmallSizePheonix.png</file>
+    <file>../logo/FullsizeLOGO.png</file>
+    <file>../GIF/pause_btn.png</file>
+    <file>../GIF/play_btn.png</file>
+    <file>../logo/Pheonix.ico</file>
+    <file>../misc/refresh.png</file>
+    <file>../social/calender.png</file>
+    <file>../social/FB.png</file>
+    <file>../social/GMAIL.png</file>
+    <file>../social/instagram.png</file>
+    <file>../social/whatsapp.png</file>
+  </qresource>
+  <qresource prefix="gif">
+    <file>../GIF/next_btn.png</file>
+    <file>../GIF/volo_bit.gif</file>
+    <file>../GIF/volo_bounce.gif</file>
+  </qresource>
+</RCC>
